@@ -7,7 +7,7 @@ Deployed "https://prgx-front-2rr4medv4-fernandoalarcon.vercel.app/"
 
 Run git clone in your ./dir
 
- - git clone <br>
- - cd ./ <br>
- - npm install --save <br>
- - npm start <br>
+ - git clone https://github.com/FernandoAlarcon/PRGX-front-end.git  
+ - cd /PRGX-front-end 
+ - npm install --save 
+ - npm start 
