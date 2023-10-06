@@ -6,7 +6,7 @@ This application was made in React connecting 'https://jsonplaceholder.typicode.
 
 Run git clone in your ./dir
 
-### git clone
-### cd ./
-### npm install --save
-### npm start
+ git clone
+ cd ./
+ npm install --save
+ npm start
